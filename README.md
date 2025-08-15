@@ -1,5 +1,5 @@
 # 💫 About Me:
-💡 Structural Engineer - interested in seismic design<br>💻 .NET Software Developer - mostly engineering stuff<br>🎯 Focusing on some projects like: [MatchQuake](https://matchquake.com), [Wall Pro](https://rayansazeh.com/WallPro)<br>🤝 Ready to collaborate on engineering project<br>✉️ Contact: mohicode.dev@gmail.com
+💡 Structural Engineer - interested in seismic design<br>💻 .NET Software Developer - mostly engineering stuff<br>🎯 Focusing on some projects like: [MatchQuake](https://matchquake.com), [28 Double Zero](https://t.me/codeTheCodes)<br>🤝 Ready to collaborate on engineering project<br>✉️ Contact: mohicode.dev@gmail.com
 
 
 ## 🌐 Socials:
